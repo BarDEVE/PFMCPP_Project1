@@ -91,7 +91,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
    - action: Spins in place
      - `rollingBall.spinInPlace()`
 
-6. WavingFlag
+6. WavingFlag 
    - action: Flutters in the breeze
      - `wavingFlag.fluttersInBreeze()`
    - action: Ripples in the wind
