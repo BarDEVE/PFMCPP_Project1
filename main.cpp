@@ -51,85 +51,116 @@ arm.flex();                             // 3)
 arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
-1. SkippingRope
-   - action: Swings rhythmically
-     - `skippingRope.swingRhythmically()`
-   - action: Slaps the ground
-     - `skippingRope.slapsGround()`
-   - action: Creates a loop in the air
-     - `skippingRope.createLoop()`
+    // 1)
+    // Noun: SkippingRope
+    // action 1: Swings rhythmically
+    skippingRope.swingRhythmically();
 
-2. BuzzingBee
-   - action: Collects nectar from flowers
-     - `buzzingBee.collectsNectar()`
-   - action: Flies from blossom to blossom
-     - `buzzingBee.fliesToBlossom()`
-   - action: Buzzes around a hive
-     - `buzzingBee.buzzesAroundHive()`
+    // action 2: Slaps the ground
+    skippingRope.slapsGround();
 
-3. RunningShoe
-   - action: Pounds the pavement
-     - `runningShoe.poundsPavement()`
-   - action: Flexes with each step
-     - `runningShoe.flexesWithStep()`
-   - action: Treads lightly on the trail
-     - `runningShoe.treadsLightly()`
+    // action 3: Creates a loop in the air
+    skippingRope.createLoop();
 
-4. QuackingDuck
-   - action: Dips into the pond
-     - `quackingDuck.dipsIntoPond()`
-   - action: Waddles along the bank
-     - `quackingDuck.waddlesAlongBank()`
-   - action: Flaps its wings
-     - `quackingDuck.flapsWings()`
+    // 2)
+    // Noun: BuzzingBee
+    // action 1: Collects nectar from flowers
+    buzzingBee.collectsNectar();
 
-5. RollingBall
-   - action: Moves smoothly across the floor
-     - `rollingBall.moveSmoothly()`
-   - action: Bounces off obstacles
-     - `rollingBall.bouncesOffObstacles()`
-   - action: Spins in place
-     - `rollingBall.spinInPlace()`
+    // action 2: Flies from blossom to blossom
+    buzzingBee.fliesToBlossom();
 
-6. WavingFlag 
-   - action: Flutters in the breeze
-     - `wavingFlag.fluttersInBreeze()`
-   - action: Ripples in the wind
-     - `wavingFlag.ripplesInWind()`
-   - action: Stands tall on the pole
-     - `wavingFlag.standsTallOnPole()`
+    // action 3: Buzzes around a hive
+    buzzingBee.buzzesAroundHive();
 
-7. PurringCat
-   - action: Curls up contentedly
-     - `purringCat.curlsUpContentedly()`
-   - action: Nuzzles against a person
-     - `purringCat.nuzzlesAgainstPerson()`
-   - action: Grooms its fur
-     - `purringCat.groomsFur()`
+    // 3)
+    // Noun: RunningShoe
+    // action 1: Pounds the pavement
+    runningShoe.poundsPavement();
 
-8. JugglingBall
-   - action: Soars through the air
-     - `jugglingBall.soarsThroughAir()`
-   - action: Bounces on the ground
-     - `jugglingBall.bouncesOnGround()`
-   - action: Spins between hands
-     - `jugglingBall.spinsBetweenHands()`
+    // action 2: Flexes with each step
+    runningShoe.flexesWithStep();
 
-9. HoppingFrog
-   - action: Leaps from lily pad to lily pad
-     - `hoppingFrog.leapsFromLilyPad()`
-   - action: Croaks in the marsh
-     - `hoppingFrog.croaksInMarsh()`
-   - action: Snaps at passing insects
-     - `hoppingFrog.snapsAtInsects()`
+    // action 3: Treads lightly on the trail
+    runningShoe.treadsLightly();
 
-10. ChirpingBird
-    - action: Sings melodiously in the morning
-      - `chirpingBird.singMelodiously()`
-    - action: Flies from branch to branch
-      - `chirpingBird.flyBetweenBranches()`
-    - action: Builds a nest with twigs
-      - `chirpingBird.buildsNest()`
+    // 4)
+    // Noun: QuackingDuck
+    // action 1: Dips into the pond
+    quackingDuck.dipsIntoPond();
+
+    // action 2: Waddles along the bank
+    quackingDuck.waddlesAlongBank();
+
+    // action 3: Flaps its wings
+    quackingDuck.flapsWings();
+
+    // 5)
+    // Noun: RollingBall
+    // action 1: Moves smoothly across the floor
+    rollingBall.moveSmoothly();
+
+    // action 2: Bounces off obstacles
+    rollingBall.bouncesOffObstacles();
+
+    // action 3: Spins in place
+    rollingBall.spinInPlace();
+
+    // 6)
+    // Noun: WavingFlag
+    // action 1: Flutters in the breeze
+    wavingFlag.fluttersInBreeze();
+
+    // action 2: Ripples in the wind
+    wavingFlag.ripplesInWind();
+
+    // action 3: Stands tall on the pole
+    wavingFlag.standsTallOnPole();
+
+    // 7)
+    // Noun: PurringCat
+    // action 1: Curls up contentedly
+    purringCat.curlsUpContentedly();
+
+    // action 2: Nuzzles against a person
+    purringCat.nuzzlesAgainstPerson();
+
+    // action 3: Grooms its fur
+    purringCat.groomsFur();
+
+    // 8)
+    // Noun: JugglingBall
+    // action 1: Soars through the air
+    jugglingBall.soarsThroughAir();
+
+    // action 2: Bounces on the ground
+    jugglingBall.bouncesOnGround();
+
+    // action 3: Spins between hands
+    jugglingBall.spinsBetweenHands();
+
+    // 9)
+    // Noun: HoppingFrog
+    // action 1: Leaps from lily pad to lily pad
+    hoppingFrog.leapsFromLilyPad();
+
+    // action 2: Croaks in the marsh
+    hoppingFrog.croaksInMarsh();
+
+    // action 3: Snaps at passing insects
+    hoppingFrog.snapsAtInsects();
+
+    // 10)
+    // Noun: ChirpingBird
+    // action 1: Sings melodiously in the morning
+    chirpingBird.singMelodiously();
+
+    // action 2: Flies from branch to branch
+    chirpingBird.flyBetweenBranches();
+
+    // action 3: Builds a nest with twigs
+    chirpingBird.buildsNest();
+
 
 
 
