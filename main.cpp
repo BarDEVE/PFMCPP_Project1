@@ -52,7 +52,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
     // 1)
-    // Noun: SkippingRope
+    // Noun: skippingRope
     // action 1: Swings rhythmically
     skippingRope.swingRhythmically();
 
@@ -63,7 +63,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
     skippingRope.createLoop();
 
     // 2)
-    // Noun: BuzzingBee
+    // Noun: buzzingBee
     // action 1: Collects nectar from flowers
     buzzingBee.collectsNectar();
 
@@ -74,7 +74,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
     buzzingBee.buzzesAroundHive();
 
     // 3)
-    // Noun: RunningShoe
+    // Noun: runningShoe
     // action 1: Pounds the pavement
     runningShoe.poundsPavement();
 
@@ -85,7 +85,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
     runningShoe.treadsLightly();
 
     // 4)
-    // Noun: QuackingDuck
+    // Noun: quackingDuck
     // action 1: Dips into the pond
     quackingDuck.dipsIntoPond();
 
@@ -96,7 +96,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
     quackingDuck.flapsWings();
 
     // 5)
-    // Noun: RollingBall
+    // Noun: rollingBall
     // action 1: Moves smoothly across the floor
     rollingBall.moveSmoothly();
 
@@ -107,7 +107,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
     rollingBall.spinInPlace();
 
     // 6)
-    // Noun: WavingFlag
+    // Noun: wavingFlag
     // action 1: Flutters in the breeze
     wavingFlag.fluttersInBreeze();
 
@@ -118,7 +118,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
     wavingFlag.standsTallOnPole();
 
     // 7)
-    // Noun: PurringCat
+    // Noun: purringCat
     // action 1: Curls up contentedly
     purringCat.curlsUpContentedly();
 
@@ -129,18 +129,19 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
     purringCat.groomsFur();
 
     // 8)
-    // Noun: JugglingBall
-    // action 1: Soars through the air
-    jugglingBall.soarsThroughAir();
+    // Noun: Basketball
+    // Action 1: Soars towards the hoop
+    basketball.soarsTowardsTheHoop();
 
-    // action 2: Bounces on the ground
-    jugglingBall.bouncesOnGround();
+    // Action 2: Bounces off the backboard
+    basketball.bouncesOffTheBackboard();
 
-    // action 3: Spins between hands
-    jugglingBall.spinsBetweenHands();
+    // Action 3: Spins mid-air from a dunk
+    basketball.spinsMidAirFromADunk();
+
 
     // 9)
-    // Noun: HoppingFrog
+    // Noun: hoppingFrog
     // action 1: Leaps from lily pad to lily pad
     hoppingFrog.leapsFromLilyPad();
 
@@ -151,7 +152,7 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
     hoppingFrog.snapsAtInsects();
 
     // 10)
-    // Noun: ChirpingBird
+    // Noun: chirpingBird
     // action 1: Sings melodiously in the morning
     chirpingBird.singMelodiously();
 
