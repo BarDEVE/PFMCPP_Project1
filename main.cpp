@@ -1,6 +1,6 @@
 #if false
 /*
- PFM::C++ For Musicians Task
+ PFM::C++ For Musicians Task 
  Project 1 - Part 1 / 1
  Video: Chapter 2 Part 1
  
@@ -51,85 +51,117 @@ arm.flex();                             // 3)
 arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
-//  1)
-//  Noun:
-//  action 1:
+    // 1)
+    // Noun: skippingRope
+    // action 1: Swings rhythmically
+    skippingRope.swingRhythmically();
 
-//  action 2:
+    // action 2: Slaps the ground
+    skippingRope.slapsGround();
 
-//  action 3:
+    // action 3: Creates a loop in the air
+    skippingRope.createLoop();
 
-//  2)
-//  Noun:
-//  action 1:
+    // 2)
+    // Noun: buzzingBee
+    // action 1: Collects nectar from flowers
+    buzzingBee.collectsNectar();
 
-//  action 2:
+    // action 2: Flies from blossom to blossom
+    buzzingBee.fliesToBlossom();
 
-//  action 3:
+    // action 3: Buzzes around a hive
+    buzzingBee.buzzesAroundHive();
 
-//  3)
-//  Noun:
-//  action 1:
+    // 3)
+    // Noun: runningShoe
+    // action 1: Pounds the pavement
+    runningShoe.poundsPavement();
 
-//  action 2:
+    // action 2: Flexes with each step
+    runningShoe.flexesWithStep();
 
-//  action 3:
+    // action 3: Treads lightly on the trail
+    runningShoe.treadsLightly();
 
-//  4)
-//  Noun:
-//  action 1:
+    // 4)
+    // Noun: quackingDuck
+    // action 1: Dips into the pond
+    quackingDuck.dipsIntoPond();
 
-//  action 2:
+    // action 2: Waddles along the bank
+    quackingDuck.waddlesAlongBank();
 
-//  action 3:
+    // action 3: Flaps its wings
+    quackingDuck.flapsWings();
 
-//  5)
-//  Noun:
-//  action 1:
+    // 5)
+    // Noun: rollingBall
+    // action 1: Moves smoothly across the floor
+    rollingBall.moveSmoothly();
 
-//  action 2:
+    // action 2: Bounces off obstacles
+    rollingBall.bouncesOffObstacles();
 
-//  action 3:
+    // action 3: Spins in place
+    rollingBall.spinInPlace();
 
-//  6)
-//  Noun:
-//  action 1:
+    // 6)
+    // Noun: wavingFlag
+    // action 1: Flutters in the breeze
+    wavingFlag.fluttersInBreeze();
 
-//  action 2:
+    // action 2: Ripples in the wind
+    wavingFlag.ripplesInWind();
 
-//  action 3:
+    // action 3: Stands tall on the pole
+    wavingFlag.standsTallOnPole();
 
-//  7)
-//  Noun:
-//  action 1:
+    // 7)
+    // Noun: purringCat
+    // action 1: Curls up contentedly
+    purringCat.curlsUpContentedly();
 
-//  action 2:
+    // action 2: Nuzzles against a person
+    purringCat.nuzzlesAgainstPerson();
 
-//  action 3:
+    // action 3: Grooms its fur
+    purringCat.groomsFur();
 
-//  8)
-//  Noun:
-//  action 1:
+    // 8)
+    // Noun: Basketball
+    // Action 1: Soars towards the hoop
+    basketball.soarsTowardsTheHoop();
 
-//  action 2:
+    // Action 2: Bounces off the backboard
+    basketball.bouncesOffTheBackboard();
 
-//  action 3:
+    // Action 3: Spins mid-air from a dunk
+    basketball.spinsMidAirFromADunk();
 
-//  9)
-//  Noun:
-//  action 1:
 
-//  action 2:
+    // 9)
+    // Noun: hoppingFrog
+    // action 1: Leaps from lily pad to lily pad
+    hoppingFrog.leapsFromLilyPad();
 
-//  action 3:
+    // action 2: Croaks in the marsh
+    hoppingFrog.croaksInMarsh();
 
-//  10)
-//  Noun:
-//  action 1:
+    // action 3: Snaps at passing insects
+    hoppingFrog.snapsAtInsects();
 
-//  action 2:
+    // 10)
+    // Noun: chirpingBird
+    // action 1: Sings melodiously in the morning
+    chirpingBird.singMelodiously();
 
-//  action 3:
+    // action 2: Flies from branch to branch
+    chirpingBird.flyBetweenBranches();
+
+    // action 3: Builds a nest with twigs
+    chirpingBird.buildsNest();
+
 
 
 
